@@ -1,0 +1,9 @@
+{
+	"name": "ttadfwithgit",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b8c2aaa-9b45-410f-84b2-6d4aa0656913",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
